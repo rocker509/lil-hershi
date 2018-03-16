@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LilHri$hi()
+comment1.params=
+comment1.target=java.lang.String\ enCode()
+comment2.params=
+comment2.target=java.lang.String\ deCode()
+comment3.params=
+comment3.target=void\ intoArray()
+comment4.params=
+comment4.target=void\ outArray()
+numComments=5
